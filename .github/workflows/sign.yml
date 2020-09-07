@@ -1,7 +1,7 @@
 name: Actions-Sign
 on:
   schedule:
-    - cron: 6 4,14,16,23 * * *
+    - cron: 8 4,14,16,22 * * *
   watch:
     types: [started]
 jobs:
